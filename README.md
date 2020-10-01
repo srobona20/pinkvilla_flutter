@@ -1,6 +1,6 @@
 # pinkvillaflutter
 
-A new Flutter application.
+Just Demo
 
 ## Getting Started
 
